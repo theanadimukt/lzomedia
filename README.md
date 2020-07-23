@@ -30,7 +30,7 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/3oKIPkToieFPZdTPuU/400w.webp?cid=ecf05e47vhoyytwnpqvzq0vdrjejxmqlatfssbb3i8vgmxlf&rid=400w.webp" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/3oKIPkToieFPZdTPuU/400w.webp" />
 <br />
 
 ### Hi 🙋‍♂️,
