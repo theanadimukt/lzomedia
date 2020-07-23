@@ -22,7 +22,11 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://camo.githubusercontent.com/8375a8c0958c72472d243f3781e13cfb9685ced4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7061564437754c38757a3675732f67697068792e676966" />
+<p align="right" >
+  <a href="https://github.com/lzomedia/lzomedia"> 
+	<img  src="https://github-readme-stats.vercel.app/api?username=lzomedia&&show_icons=true&theme=radical"/>
+  </a>
+</p>
 <br />
 
 ### Hi 🙋‍♂️,
@@ -40,11 +44,7 @@
 
 <br />
 
-<p align="center" >
-  <a href="https://github.com/lzomedia/lzomedia"> 
-	<img  src="https://github-readme-stats.vercel.app/api?username=lzomedia&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+
 
 ***********************************
 
