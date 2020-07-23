@@ -1,29 +1,21 @@
 
 
-### Hi there, I'm [Stefan!](https://lzomedia.com) 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hi there , I'm [Stefan!](https://lzomedia.com) 👋
+.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 
 <br/>
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/lzomedia/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ihemantjoshi">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/hemant.gz/">
+<a href="https://www.instagram.com/lzomedia">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user//">
+<a href="https://www.reddit.com/user/lzomedia/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
@@ -39,19 +31,14 @@
 
 #### - 🔭 Transformers FanBoi, 
 
-#### - 🛸 Into High Energy Physics and Astrophysics
+#### - 🛸 Linux Fanatic
 
-#### - 🛸 Into High Energy Physics and Astrophysics
+#### - 🛸 Security Freak
+
+#### - 🛸 Into Motorbikes and Phishing
 
 
 <br />
-
-
-**I am Into , 🙏**
-
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
-
 
 <p align="center" >
   <a href="https://github.com/lzomedia/lzomedia"> 
@@ -59,12 +46,9 @@
   </a>
 </p>
 
-*************
-<br />
 ***********************************
 
-#### Thank You-🙏🏼
-
+#### Thank You
 
 
 
