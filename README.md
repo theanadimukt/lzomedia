@@ -30,20 +30,18 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/3oKIPkToieFPZdTPuU/400w.webp?cid=ecf05e47vhoyytwnpqvzq0vdrjejxmqlatfssbb3i8vgmxlf&rid=400w.webp" />
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 32 years old Self-taught Backend developer from Romania.
-
-
+### I'm 32 years old Backend developer from Romania.
 
 
 #### - 🔭 SpaceX FanBoi, 
 
 #### - 🛸 Into High Energy Physics and Astrophysics
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/lzomedia/lzomedia/master/svg/social/twitter.svg" >](https://twitter.com/lzomedia/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png" >](https://twitter.com/L70Media/)
 
 
 <br />
@@ -57,24 +55,12 @@
 
 <p align="center" >
   <a href="https://github.com/lzomedia/lzomedia"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=lzomedia&&show_icons=true&theme=radical"/>
+	<img  src="https://github-readme-stats.vercel.app/api?username=lzomedia&&show_icons=true&theme=radical"/>
   </a>
-  </p>
+</p>
 
 *************
 <br />
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/lzomedia/lzomedia/master/svg/blogs/devto.svg"> 
-</p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lzomedia/lzomedia/master/svg/streaming/podcast.svg"> 
-</p>
-
-
 ***********************************
 
 #### Thank You-🙏🏼
