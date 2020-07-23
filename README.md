@@ -30,18 +30,18 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media1.giphy.com/media/3oKIPkToieFPZdTPuU/400w.webp" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://camo.githubusercontent.com/8375a8c0958c72472d243f3781e13cfb9685ced4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7061564437754c38757a3675732f67697068792e676966" />
 <br />
 
 ### Hi 🙋‍♂️,
 ### I'm 32 years old Backend developer from Romania.
 
 
-#### - 🔭 SpaceX FanBoi, 
+#### - 🔭 Transformers FanBoi, 
 
 #### - 🛸 Into High Energy Physics and Astrophysics
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png" >](https://twitter.com/L70Media/)
+#### - 🛸 Into High Energy Physics and Astrophysics
 
 
 <br />
