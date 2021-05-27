@@ -32,7 +32,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 32 years old Backend developer from Romania.
+### I'm 33 years old Backend developer from Romania.
 
 
 #### - 🔭 Transformers FanBoi, 
@@ -44,9 +44,7 @@
 #### - 🛸 Into Motorbikes and Phishing
 
 
-<br />
-
-
+#### - 🛸 Camping from time to time
 
 ***********************************
 
