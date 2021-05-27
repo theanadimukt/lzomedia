@@ -1,8 +1,6 @@
 
 
 ### Hi there , I'm [Stefan!](https://lzomedia.com) 👋
-.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
-
 
 <br/>
 <a href="https://twitter.com/L70Media">
