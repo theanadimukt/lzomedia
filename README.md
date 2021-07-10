@@ -1,7 +1,9 @@
 
 
 ### Hi there , I'm [Stefan!](https://lzomedia.com) 👋
-
+<a href="https://twitter.com/L70Media">
+  <img align="left" alt="Lzo Media Twitter" width="100%" src=https://play-lh.googleusercontent.com/6HF3FvmmaRAwgILULiDEfJXQru1kruOyAibyHjSe-LwYj7dFjeuKrG0QbFl9UNUcoc5n=w2247-h1264-rw" />
+</a>
 <br/>
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
