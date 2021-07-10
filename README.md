@@ -1,10 +1,11 @@
 
 
 ### Hi there , I'm [Stefan!](https://lzomedia.com) 👋
+#### I'm a senior backend developer which loves to tacle programing problems.
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="100%" src="https://play-lh.googleusercontent.com/6HF3FvmmaRAwgILULiDEfJXQru1kruOyAibyHjSe-LwYj7dFjeuKrG0QbFl9UNUcoc5n=w2247-h1264-rw" />
 </a>
-<br/>
+<br/><br/>
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -42,7 +43,6 @@
 #### - 🛸 Security Freak
 
 #### - 🛸 Into Motorbikes and Phishing
-
 
 #### - 🛸 Camping from time to time
 
