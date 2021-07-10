@@ -7,7 +7,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
+
 
 <br />
 
@@ -37,6 +37,8 @@
 ***********************************
 
 #### Thank You
+
+![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
 
 <br/><br/>
 <a href="https://twitter.com/L70Media">
