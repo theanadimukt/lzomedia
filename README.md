@@ -20,10 +20,6 @@
 </p>
 <br />
 
-### Hi 🙋‍♂️,
-### I'm 33 years old Backend developer from Romania.
-
-
 #### - 🔭 Transformers FanBoi, 
 
 #### - 🛸 Linux Fanatic
