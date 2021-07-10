@@ -52,8 +52,11 @@
 <a href="https://www.reddit.com/user/lzomedia/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://www.reddit.com/user/lzomedia/">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twich.svg" />
+<a href="https://www.twitch.tv/lzomedia">
+  <img align="left" alt="twitch" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCATvoW-E8jPB2jIkUhfXygw">
+  <img align="left" alt="twitch" width="22px" style="filter: invert(1);" src="https://simpleicons.org/icons/youtube.svg" />
 </a>
 
 
