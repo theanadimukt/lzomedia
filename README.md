@@ -22,9 +22,10 @@
   </a>
 </p>
 <br />
-#### - 🔭 Twich Streamer, 
 
-#### - 🔭 Transformers FanBoi, 
+#### - 🛸 Twich Streamer, 
+
+#### - 🛸 Transformers FanBoi, 
 
 #### - 🛸 Linux Fanatic
 
