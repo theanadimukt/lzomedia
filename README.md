@@ -41,7 +41,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
 
 <a href="https://twitter.com/L70Media">
-  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lzomedia/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
