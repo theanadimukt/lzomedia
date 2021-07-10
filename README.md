@@ -5,19 +5,7 @@
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="100%" src="https://play-lh.googleusercontent.com/6HF3FvmmaRAwgILULiDEfJXQru1kruOyAibyHjSe-LwYj7dFjeuKrG0QbFl9UNUcoc5n=w2247-h1264-rw" />
 </a>
-<br/><br/>
-<a href="https://twitter.com/L70Media">
-  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lzomedia/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/lzomedia">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/lzomedia/">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
 
@@ -50,5 +38,18 @@
 
 #### Thank You
 
+<br/><br/>
+<a href="https://twitter.com/L70Media">
+  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lzomedia/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/lzomedia">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/lzomedia/">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
 
