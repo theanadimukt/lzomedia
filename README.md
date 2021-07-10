@@ -40,7 +40,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
 
-<br/><br/>
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
