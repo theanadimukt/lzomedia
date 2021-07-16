@@ -1,7 +1,7 @@
 
 
 ### Hi there , I'm [Stefan!](https://lzomedia.com) 👋
-#### I'm a senior backend developer which loves to tacle programing problems.
+#### I'm a senior backend developer which loves to tackle programing problems.
 ##### I love to code in PHP, Python and Golang. My main frameworks that I use daily are Laravel and Symfony.
 ##### I usually use MYSQL, MongoDB and Elastic search for storing adn searching data.
 
