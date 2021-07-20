@@ -23,6 +23,8 @@
 
 </p>
 
+<br />
+
 <p align="right">
 		<a href="https://app.daily.dev/LzoMedia"><img src="https://api.daily.dev/devcards/55e671ef60854f4da9322326854a9999.png?r=fdm"  align="right" height="270px" width="450px" alt="Stefan's Dev Card"/></a>
 	</p>
