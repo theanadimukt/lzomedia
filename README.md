@@ -43,7 +43,7 @@
 
 
 <a href="https://app.daily.dev/LzoMedia">
-  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://simpleicons.org/icons/code.svg" />
+  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://simpleicons.org/icons/devdotto.svg" />
 </a>
 
 <a href="https://twitter.com/L70Media">
