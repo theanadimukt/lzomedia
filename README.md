@@ -18,7 +18,7 @@
 
 <p align="right" >
   <a href="https://github.com/lzomedia/lzomedia"> 
-	<img align="right" height="270px" height="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=lzomedia&&show_icons=true&theme=radical"/>
+	<img align="right" height="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=lzomedia&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
