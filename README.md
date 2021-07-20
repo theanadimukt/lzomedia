@@ -41,6 +41,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lzomedia.lzomedia)
 
+
+<a href="https://app.daily.dev/LzoMedia">
+  <img align="left" alt="Lzo Media Twitter" width="22px" src="https://simpleicons.org/icons/code.svg" />
+</a>
+
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
 </a>
