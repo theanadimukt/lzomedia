@@ -3,7 +3,7 @@
 ### Hi there , I'm [Stefan!](https://lzomedia.com) 👋
 #### I'm a senior backend developer which loves to tackle programing problems.
 ##### I love to code in PHP, Python and Golang. My main frameworks that I use daily are Laravel and Symfony.
-##### I usually use MYSQL, MongoDB and Elastic search for storing adn searching data.
+##### I usually use MYSQL, MongoDB and Elastic search for storing & searching data.
 
 <a href="https://twitter.com/L70Media">
   <img align="left" alt="Lzo Media Twitter" width="100%" src="https://play-lh.googleusercontent.com/6HF3FvmmaRAwgILULiDEfJXQru1kruOyAibyHjSe-LwYj7dFjeuKrG0QbFl9UNUcoc5n=w2247-h1264-rw" />
