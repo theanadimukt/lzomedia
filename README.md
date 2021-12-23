@@ -9,7 +9,7 @@
   <img align="left" alt="Lzo Media Twitter" width="100%" src="https://play-lh.googleusercontent.com/6HF3FvmmaRAwgILULiDEfJXQru1kruOyAibyHjSe-LwYj7dFjeuKrG0QbFl9UNUcoc5n=w2247-h1264-rw" />
 </a>
 
-<br />
+
 
 <p align="right" >
   <a href="https://github.com/lzomedia/lzomedia"> 
@@ -18,7 +18,7 @@
 
 </p>
 
-<br />
+
 
 <p align="left">
 		<a href="https://app.daily.dev/LzoMedia"><img src="https://api.daily.dev/devcards/55e671ef60854f4da9322326854a9999.png?r=fdm"  align="left" height="400px" alt="Stefan's Dev Card"/></a>
