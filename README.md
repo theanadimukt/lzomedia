@@ -5,9 +5,6 @@
 #### I love to code in PHP, Python and Golang. Daily I'm using Symfony, Django and Mux.
 #### I usually use MYSQL, MongoDB and Elastic for storing & searching data.
 
-<a href="https://twitter.com/L70Media">
-  <img align="left" alt="Lzo Media Twitter" width="100%" src="https://photos.google.com/search/_tra_/photo/AF1QipP-AlW9RdUFgvgboohiyYdPaKUj4KURuoq08vKd" />
-</a>
 
 
 
